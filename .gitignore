@@ -2,4 +2,8 @@
 # .DS_Store
 # dist
 # dist-ssr
+<<<<<<< HEAD
 # *.local
+=======
+# *.local
+>>>>>>> d21bafad02dabad1113f73ff38e5284a347f27f4
